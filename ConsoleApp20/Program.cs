@@ -6,6 +6,6 @@ public class BahaSenpai
     {
         string name = Console.ReadLine();
         string job = Console.ReadLine();
-        Console.WriteLine($"{name} — job- {job}!");
+        Console.WriteLine($"{name} — job- {job}!"); // Hopefully, there's no word "foot"
     }
 }
